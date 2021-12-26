@@ -21,3 +21,5 @@ export const selectTimer = (index) => {
         payload: { index }
     };
 };
+
+// By defining the variable, the value appears only in a single location and can easily be changed. Exporting the variable from this file allows the code editor to catch errors and prevents us from making spelling mistakes.
