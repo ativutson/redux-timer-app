@@ -7,4 +7,3 @@ class Timer {
     }
 }
 
-const myTimer = new Timer('Workout');

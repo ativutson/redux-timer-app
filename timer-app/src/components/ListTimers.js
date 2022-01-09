@@ -1,6 +1,6 @@
 import React from "react";
 import { useSelector } from "react-redux";
-import { selectTimer } from "../actions";
+// import { selectTimer } from "../actions";
 import TimerView from "./TimerView";
 
 export default function ListTimers() {

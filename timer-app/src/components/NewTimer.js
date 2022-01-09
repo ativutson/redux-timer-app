@@ -12,7 +12,7 @@ export default function NewTimer() {
     return (
         <div className="NewTimer">
             <input
-                type='text'
+                type="text"
                 placeholder="New Timer Name"
                 name="name"
                 value={name}
